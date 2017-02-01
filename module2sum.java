@@ -16,7 +16,9 @@ public class module2sum {
         arrayOffinger[8] = 9;
         arrayOffinger[9] = 10;
 
-        for (int i = 0; i < arrayOffinger.length; i++) System.out.println(("breaking fingers" + arrayOffinger[i]) );
+        for (int i = 0; i < arrayOffinger.length; i++)
+            
+            System.out.println(("breaking fingers" + arrayOffinger[i]) );
 
     }
 }
